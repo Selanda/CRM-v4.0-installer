@@ -1,0 +1,7 @@
+﻿<CRMConfiguration>
+  <Client>
+    <ServerUrl Type="SPLA" ShowUser="True">http://servername/MSCRMServices</ServerUrl>
+    <ExtranetServerUrl>http://servername/MSCRMServices</ExtranetServerUrl>
+    <CEIP optin="False" /> 
+</Client>
+</CRMConfiguration>
